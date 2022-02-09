@@ -1,0 +1,40 @@
+
+Sheets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sky
+  rotate: false
+  xy: 1, 102
+  size: 451, 381
+  orig: 451, 381
+  offset: 0, 0
+  index: -1
+godzilla
+  rotate: false
+  xy: 1, 1
+  size: 444, 99
+  orig: 444, 99
+  offset: 0, 0
+  index: -1
+nha2
+  rotate: false
+  xy: 454, 378
+  size: 302, 105
+  orig: 302, 105
+  offset: 0, 0
+  index: -1
+nha
+  rotate: false
+  xy: 454, 303
+  size: 206, 73
+  orig: 206, 73
+  offset: 0, 0
+  index: -1
+chim
+  rotate: false
+  xy: 758, 438
+  size: 96, 45
+  orig: 96, 45
+  offset: 0, 0
+  index: -1
